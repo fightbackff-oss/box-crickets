@@ -1,0 +1,6 @@
+{
+  "name": "Timezy",
+  "description": "A production-ready mobile task management and productivity application.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
